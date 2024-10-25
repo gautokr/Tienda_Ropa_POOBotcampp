@@ -105,7 +105,7 @@ inventario.agregar_prenda(camisa)
 inventario.agregar_prenda(pantalon)
 inventario.agregar_prenda(zapatos)
 
-print('Bienvenido. Este es nuestro inventario.')
+print('¡Bienvenido! Este es nuestro inventario.')
 inventario.mostrar_inventario()
 
 carrito = Carrito()
